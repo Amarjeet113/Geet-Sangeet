@@ -21,7 +21,7 @@ let songs = [
     {songName: "Romantic Collection", filePath: "songs/9.mp3", coverPath: "covers/9.jpeg"},
     {songName: "Maithli Collection", filePath: "songs/10.mp3", coverPath: "covers/10.jpeg"},
     {songName: "Mashup songs", filePath: "songs/11.mp3", coverPath: "covers/11.jpeg"},
-    {songName: "Mashup songs", filePath: "songs/11.mp3", coverPath: "covers/11.jpeg"},
+    
 ]
 
 songItems.forEach((element, i)=>{ 
